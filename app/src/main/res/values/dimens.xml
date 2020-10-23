@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="HeaderSize">14sp</dimen>
+    <dimen name="HeaderSize2">16sp</dimen>
+    <dimen name="HeaderSizeBig">28sp</dimen>
+    <dimen name="padding">14dp</dimen>
+    <dimen name="margin_top_header_text">16dp</dimen>
+    <dimen name="margin_bottom_header_textt">6dp</dimen>
+</resources>
